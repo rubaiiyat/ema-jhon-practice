@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1c2b35;
+  height: 80px;
+}
+.navbar img {
+  width: 140px;
+  margin-left: 100px;
+}
+.menu {
+  margin-right: 100px;
+}
+.menu a {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 32px;
+}

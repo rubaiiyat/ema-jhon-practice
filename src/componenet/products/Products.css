@@ -1,0 +1,24 @@
+.cart img {
+  width: 286px;
+  padding: 7px;
+  border-radius: 8px;
+}
+.cart {
+  width: 300px;
+  height: 508px;
+  border: 1px solid;
+  margin: 20px;
+  position: relative;
+  border-radius: 8px;
+}
+.cart button {
+  background-color: #ffe0b3;
+  width: 100%;
+  padding: 10px;
+  position: absolute;
+  border: none;
+  border-radius: 0px 0px 8px 8px;
+  bottom: 0;
+  left: 0;
+  cursor: pointer;
+}
